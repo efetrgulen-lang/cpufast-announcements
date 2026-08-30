@@ -1,11 +1,18 @@
 {
-  "id": "ann_1787867907897",
-  "active": false,
-  "type": "image",
-  "title": "YAINA GİRMESİNE ÇOK AZ KALDI",
-  "text": "OHA HARİKA ALİPAŞA",
-  "date": "28 Ağustos 2026",
-  "updatedAt": 1788076027239,
-  "imageUrl": "https://raw.githubusercontent.com/efetrgulen-lang/cpufast-announcements/main/images/ann_1787867905781.jpeg",
-  "imageAspectRatio": "landscape"
+  "id": "ann_1788076087268",
+  "active": true,
+  "type": "poll",
+  "title": "bebeklerin bebeği",
+  "text": "",
+  "date": "30 Ağustos 2026",
+  "updatedAt": 1788076087268,
+  "poll": {
+    "question": "bebeklerin bebeyi kimdir",
+    "options": [
+      "eymen bebek ",
+      "recep bebek ",
+      "tavşan bebek "
+    ],
+    "pollUrl": ""
+  }
 }
